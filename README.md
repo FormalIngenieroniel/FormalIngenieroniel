@@ -21,7 +21,7 @@
     
 <td align="center" valign="middle" style="width: 200px; border: none;">
       <img src="https://media.tenor.com/OWEf1WsA_dQAAAAj/hollow-knight-mr-mushroom.gif" 
-           width="100" 
+           width="180" 
            alt="Hollow Knight Mr Mushroom GIF" />
     </td>
 
