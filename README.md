@@ -1,16 +1,14 @@
+<h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
+
 <table align="center" 
        border="0"
        cellspacing="0" 
        cellpadding="0" 
        style="max-width: 700px; margin: 0 auto; width: 100%; border-collapse: collapse; border: none;">
-<tr>
-    <td align="center" colspan="2" style="border: none; padding-bottom: 10px;">
-      <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
-    </td>
-  </tr>
   
-  <tr>
-    <td align="center" valign="middle" style="border: none;">
+  <tr style="background-color: transparent; border: none;">
+    
+<td align="center" valign="middle" style="border: none;">
       <p align="center">
         <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
       </p>
@@ -24,7 +22,9 @@
            width="200" 
            alt="Hollow Knight Mr Mushroom GIF" />
     </td>
+
   </tr>
+  
 </table>
 
 <h1 align="center">Stats <span style="color:#00E0FF">Metrics</span></h1>
