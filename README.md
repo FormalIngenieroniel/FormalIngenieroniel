@@ -49,7 +49,7 @@ For more than nine years, I have been a member of the Scout Association of Colom
       </p>
     </td>
     
-<td align="center" valign="middle" style="width: 2000px; border: none;">
+<td>
        <p align="center">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
        <img width="12" />
