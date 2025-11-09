@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/JwC1q_u8_oQAAAAM/hollow-knight.gif" style="float: right; margin-left: 20px;" width="200" alt="Hollow Knight Mr Mushroom GIF" />
   <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
 </p>
 
