@@ -31,6 +31,19 @@
 
 <h1 align="center">Curious? 🧐</h1>
 
+¡Entendido! Qué raro que no haya funcionado. Tienes toda la razón, tu idea de "tamaño predefinido" es el siguiente paso lógico.
+
+Vamos a forzarlo usando anchos fijos en píxeles (px) en lugar de porcentajes (%).
+
+A veces, el renderizador de Markdown de GitHub ignora los porcentajes si no puede calcular bien el ancho del elemento "padre" (la tabla), pero es mucho más difícil que ignore un valor explícito en píxeles.
+
+Como tu tabla tiene un max-width: 700px;, vamos a dividir esos 700px en valores fijos.
+
+⚙️ Solución 3: Código con Píxeles Fijos
+Prueba este código. He cambiado width: 60% por width: 420px (para el texto) y width: 40% por width: 280px (para los logos). Para asegurarnos de que lo tome, lo pondré tanto en el atributo width como en el style.
+
+HTML
+
 <table align="center" 
        border="0" 
        cellspacing="0" 
@@ -41,7 +54,10 @@
   
   <tr style="background-color: transparent; border: none;">
     
-<td align="left" valign="top" style="border: none; width: 60%; padding-right: 15px;">
+<td align="left" 
+        valign="top" 
+        width="420" 
+        style="width: 420px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
         I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
@@ -49,9 +65,12 @@
       </p>
     </td>
     
-<td valign="top" align="center" style="width: 40%; border: none;">
+<td valign="top" 
+        align="center" 
+        width="280" 
+        style="width: 280px; border: none;">
       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
       <img width="12" />
@@ -76,7 +95,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-      </td>
+    
+    </td>
 
   </tr>
   
