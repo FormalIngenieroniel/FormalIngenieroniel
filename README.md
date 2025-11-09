@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">C4PT4IN CH405 🤯</span></h1>
+
+<p align="center">
+  <em>👾 Also known as – The Secret Code 👾</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Danny+Engineer+%F0%9F%A4%96;%F0%9F%A7%AB+AI+and+Computer+Science+Explorer+%F0%9F%A7%AB;%F0%9F%9A%80+IoT%2C+Robotics+%26+Automation+Expert+%F0%9F%9A%80;%F0%9F%A7%AA+Cybersec+%7C+Cloud+%7C+Data+Science+Curious+%F0%9F%A7%AA" alt="Typing SVG" />
+</p>
 
 <!--
 **FormalIngenieroniel/FormalIngenieroniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
