@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+Danny+Engineer+%F0%9F%A4%96;%F0%9F%A7%AB+AI+and+Computer+Science+Explorer+%F0%9F%A7%AB;%F0%9F%9A%80+IoT%2C+Robotics+%26+Automation+Expert+%F0%9F%9A%80;%F0%9F%A7%AA+Cybersec+%7C+Cloud+%7C+Data+Science+Curious+%F0%9F%A7%AA" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=25&pause=1000&color=F7490C&center=true&vCenter=true&width=435&lines=%C2%B7%3A*%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Cloud+Computing++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Data+Analyst++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Software+Engineer+%E0%BC%BB%C2%A8*%3A%C2%B7)](https://git.io/typing-svg)" alt="Typing SVG" />
 </p>
 
 <!--
