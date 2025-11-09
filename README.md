@@ -41,10 +41,7 @@
   
   <tr style="background-color: transparent; border: none;">
     
-<td align="left" 
-        valign="top" 
-        width="620" 
-        style="width: 620px; border: none; padding-right: 15px;">
+<td align="left" valign="top" width="610" style="width: 610px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
         I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
