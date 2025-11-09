@@ -29,4 +29,35 @@
   
 </table>
 
-<h1 align="center">Stats <span style="color:#00E0FF">Metrics</span></h1>
+<h1 align="center">Curious? <span style="color:#00E0FF">Metrics</span></h1>
+
+<table align="center" 
+       border="0"
+       cellspacing="0" 
+       cellpadding="0"
+       frame="void" 
+       rules="none"
+       style="max-width: 700px; margin: 0 auto; width: 100%; border-collapse: collapse; border: none; background-color: transparent;">
+  
+  <tr style="background-color: transparent; border: none;">
+    
+<td align="center" valign="middle" style="border: none;">
+      <p align="center">
+        I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
+I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
+For more than nine years, I have been a member of the Scout Association of Colombia, where I have been recognized for my performance in leading or participating in various initiatives and projects across different parts of Colombia. Providing me with valuable experience in handling situations that require problem-solving, public speaking skills, presenting my ideas assertively, and fully developing my soft skills.
+      </p>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=A9B6F7&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
+      </p>
+    </td>
+    
+<td align="center" valign="middle" style="width: 200px; border: none;">
+      <img src="https://media.tenor.com/OWEf1WsA_dQAAAAj/hollow-knight-mr-mushroom.gif" 
+           width="180" 
+           alt="Hollow Knight Mr Mushroom GIF" />
+    </td>
+
+  </tr>
+  
+</table>
