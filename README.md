@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=25&pause=1000&color=F7490C&center=true&vCenter=true&width=435&lines=%C2%B7%3A*%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Cloud+Computing++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Data+Analyst++%E0%BC%BB%C2%A8*%3A%C2%B7;%C2%B7%3A*%C2%A8%E0%BC%BA++Software+Engineer+%E0%BC%BB%C2%A8*%3A%C2%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=F7320C&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
 </p>
 
 <!--
