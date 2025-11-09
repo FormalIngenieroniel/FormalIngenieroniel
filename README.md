@@ -37,14 +37,14 @@
        cellpadding="0" 
        frame="void" 
        rules="none" 
-       style="max-width: 700px; margin: 0 auto; width: 100%; border-collapse: collapse; border: none; background-color: transparent;">
+       style="max-width: 900px; margin: 0 auto; width: 100%; border-collapse: collapse; border: none; background-color: transparent;">
   
   <tr style="background-color: transparent; border: none;">
     
 <td align="left" 
         valign="top" 
         width="420" 
-        style="width: 820px; border: none; padding-right: 15px;">
+        style="width: 620px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
         I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
