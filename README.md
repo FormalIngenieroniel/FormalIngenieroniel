@@ -47,7 +47,10 @@
 I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
 For more than nine years, I have been a member of the Scout Association of Colombia, where I have been recognized for my performance in leading or participating in various initiatives and projects across different parts of Colombia. Providing me with valuable experience in handling situations that require problem-solving, public speaking skills, presenting my ideas assertively, and fully developing my soft skills.
       </p>
-      <p align="center">
+    </td>
+    
+<td align="center" valign="middle" style="width: 200px; border: none;">
+       <p align="center">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
        <img width="12" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -74,12 +77,6 @@ For more than nine years, I have been a member of the Scout Association of Colom
        <img width="12" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
       </p>
-    </td>
-    
-<td align="center" valign="middle" style="width: 200px; border: none;">
-      <img src="https://media.tenor.com/OWEf1WsA_dQAAAAj/hollow-knight-mr-mushroom.gif" 
-           width="180" 
-           alt="Hollow Knight Mr Mushroom GIF" />
     </td>
 
   </tr>
