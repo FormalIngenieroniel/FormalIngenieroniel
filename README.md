@@ -1,28 +1,34 @@
-<table align="center" style="max-width: 700px; margin: 0 auto; width: 100%;">
+<table align="center" style="max-width: 700px; margin: 0 auto; width: 100%; border-collapse: collapse; border: none;">
   <tbody>
+    
   <tr>
-      
-  <td align="center" valign="middle">
-        
-  <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
-          <p align="center">
-            <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
-          </p>
-          <p align="center">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=A9B6F7&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
-          </p>
-        
+      <td align="center" colspan="2" style="border: none;">
+        <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
+      </td>
+    </tr>
+    
+  <tr>
+      <td colspan="2" style="border: none; padding-top: 10px; padding-bottom: 10px;">
+        <hr /> </td>
+    </tr>
+    
+  <tr>
+      <td align="center" valign="middle" style="border: none;">
+        <p align="center">
+          <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
+        </p>
+        <p align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=A9B6F7&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
+        </p>
   </td>
       
-  <td align="center" valign="middle" style="width: 200px;">
-        
-  <img src="https://media.tenor.com/OWEf1WsA_dQAAAAj/hollow-knight-mr-mushroom.gif" 
+  <td align="center" valign="middle" style="width: 200px; border: none;">
+        <img src="https://media.tenor.com/OWEf1WsA_dQAAAAj/hollow-knight-mr-mushroom.gif" 
              width="200" 
              alt="Hollow Knight Mr Mushroom GIF" />
-             
-  </td>
-      
-  </tr>
+      </td>
+    </tr>
+    
   </tbody>
 </table>
 
