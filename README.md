@@ -44,7 +44,7 @@
 <td align="left" 
         valign="top" 
         width="420" 
-        style="width: 520px; border: none; padding-right: 15px;">
+        style="width: 820px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
         I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
@@ -83,7 +83,7 @@
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     
-    </td>
+</td>
 
   </tr>
   
