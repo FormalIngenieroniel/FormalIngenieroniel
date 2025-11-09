@@ -1,26 +1,14 @@
 <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
 
 <p align="center">
-  <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
+  <em>🤖 *Confident at █████▒ 99.9% certainty*🤖</em><br>
+    <img align="right" src="https://media.tenor.com/FjTz00dJk8wAAAAz/hollow-knight-mr-mushroom.gif" width="120" alt="Hollow Knight Mr Mushroom GIF"/>
+    
+    ☝🏻😎I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=A9B6F7&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=25&pause=1000&color=A9B6F7&center=true&vCenter=true&width=470&lines=%E3%80%8E%C2%A8%E0%BC%BA++Artifical+Intelligence+Engineer++%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Cloud+Computing+Engineer+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Data+Analyst+%2F+Scientist+%E0%BC%BB%C2%A8%E3%80%8F;%E3%80%8E%C2%A8%E0%BC%BA+Software+Engineer+%E0%BC%BB%C2%A8%E3%80%8F" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Stats <span style="color:#00E0FF">Metrics</span></h1>
-
-<!--
-**FormalIngenieroniel/FormalIngenieroniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
