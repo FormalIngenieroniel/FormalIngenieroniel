@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there! I’m <span style="color:#00E0FF">Daniel Bernal 🤯</span></h1>
 
 <p align="center">
-  <em>🤖Confident at █████▒99.9% certainty🤖 "/n" I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎</em>
+  <em>🤖Confident at █████▒99.9% certainty🤖 /n I'm the AI specialist you've been searching for, junior level with senior ambition ☝🏻😎</em>
 </p>
 
 <p align="center">
