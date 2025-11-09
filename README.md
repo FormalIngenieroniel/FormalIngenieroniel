@@ -95,7 +95,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Micromouse Arduino – Intelligent Agent Maze Solver
 
-[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=monokai&cache_bust=1)]([https://github.com/joshmessi10/MicroMouse-Arduino](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
+[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
 
 > 🐭 An Arduino-based intelligent micromouse agent that scans, maps, and solves mazes.  
 > 📡 Controlled via Bluetooth, featuring DFS exploration, path reduction, and live maze mapping.  
