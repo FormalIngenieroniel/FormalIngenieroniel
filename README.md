@@ -41,7 +41,7 @@
   
   <tr style="background-color: transparent; border: none;">
     
-<td align="left" valign="top" width="610" style="width: 610px; border: none; padding-right: 15px;">
+<td align="left" valign="top" width="600" style="width: 600px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
         I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
@@ -49,10 +49,7 @@
       </p>
     </td>
     
-<td valign="top" 
-        align="center" 
-        width="280" 
-        style="width: 280px; border: none;">
+<td valign="top" align="center" width="280" style="width: 280px; border: none;">
       
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
       <img width="12" />
