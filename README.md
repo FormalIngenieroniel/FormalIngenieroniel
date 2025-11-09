@@ -43,9 +43,13 @@
     
 <td align="left" valign="top" width="600" style="width: 600px; border: none; padding-right: 15px;">
       <p>
-        I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
-        I have an outstanding B2 level of English, which has allowed me to expand my job opportunities.
-        For more than nine years, I have been a member of la Scout Association of Colombia, where I have been recognized for my performance in leading or participating in various initiatives and projects across different parts of Colombia. Providing me with valuable experience in handling situations that require problem-solving, public speaking skills, presenting my ideas assertively, and fully developing my soft skills.
+       🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
+       🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives.
+       🗣️ Great **B2** level of **English**, enabling expanded job opportunities and effective communication.
+       🏕️ Dedicated member of the **Scout Association of Colombia** for over **nine years**, recognized for leading and participating in diverse initiatives and projects **nationwide**.
+       🧠 Gained invaluable experience in **problem-solving**, **public speaking**, **assertive presentation of ideas**, and **comprehensive soft skills development**.
+       🎯 Amuse in explore solutions involving **data** and **cloud** technology.
+       ❤️ Passionate **IA enthusiast**, constantly seeking to transform code into **innovative**, **significant** and **fun** solutions.
       </p>
     </td>
     
@@ -82,3 +86,17 @@
   </tr>
   
 </table>
+
+---
+
+## 📌 Featured Projects
+
+A collection of some of my favorite, interesting and practical repositories. Click to discover everything while exploring!
+
+### Micromouse Arduino – Intelligent Agent Maze Solver
+
+[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=monokai&cache_bust=1)]([https://github.com/joshmessi10/MicroMouse-Arduino](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
+
+> 🐭 An Arduino-based intelligent micromouse agent that scans, maps, and solves mazes.  
+> 📡 Controlled via Bluetooth, featuring DFS exploration, path reduction, and live maze mapping.  
+> 💡 Includes LED action indicators and calibrated PWM turns for reliable navigation.  
