@@ -43,7 +43,7 @@
     
 <td align="left" 
         valign="top" 
-        width="420" 
+        width="620" 
         style="width: 620px; border: none; padding-right: 15px;">
       <p>
         I am a computer scientis and engineer in artificial intelligence, with great experience leading data analysis, predictive modeling projects using various tools an cloud computing.
