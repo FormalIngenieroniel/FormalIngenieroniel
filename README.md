@@ -43,6 +43,7 @@
     
 <td align="left" valign="top" width="600" style="width: 600px; border: none; padding-right: 15px;">
       <p>
+             
 🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
              
 🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives.
