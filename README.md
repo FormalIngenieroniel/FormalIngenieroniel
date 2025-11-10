@@ -43,13 +43,19 @@
     
 <td align="left" valign="top" width="600" style="width: 600px; border: none; padding-right: 15px;">
       <p>
-             🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
-             🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives.
-             🗣️ Great **B2** level of **English**, enabling expanded job opportunities and effective communication.
-             🏕️ Dedicated member of the **Scout Association of Colombia** for over **nine years**, recognized for leading and participating in diverse initiatives and projects **nationwide**.
-             🧠 Gained invaluable experience in **problem-solving**, **public speaking**, **assertive presentation of ideas**, and **comprehensive soft skills development**.
-             🎯 Amuse in explore solutions involving **data** and **cloud** technology.
-             ❤️ Passionate **IA enthusiast**, constantly seeking to transform code into **innovative**, **significant** and **fun** solutions.
+🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
+             
+🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives.
+
+🗣️ Great **B2** level of **English**, enabling expanded job opportunities and effective communication.
+
+🏕️ Dedicated member of the **Scout Association of Colombia** for over **nine years**, recognized for leading and participating in diverse initiatives and projects **nationwide**.
+
+🧠 Gained invaluable experience in **problem-solving**, **public speaking**, **assertive presentation of ideas**, and **comprehensive soft skills development**.
+
+🎯 Amuse in explore solutions involving **data** and **cloud** technology.
+
+❤️ Passionate **IA enthusiast**, constantly seeking to transform code into **innovative**, **significant** and **fun** solutions.
       </p>
     </td>
     
