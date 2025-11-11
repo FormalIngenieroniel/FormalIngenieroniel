@@ -132,3 +132,27 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 💎 Use an Gemini API to analice information.  
 > 🐘 Include Maestro SDK for its deployment.    
 > 💡 Has a nice web interface to showcase the app. 
+
+### Arreglar bigdataiii
+
+[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+
+> 💎 Use an Gemini API to analice information.  
+> 🐘 Include Maestro SDK for its deployment.    
+> 💡 Has a nice web interface to showcase the app.
+
+### Data analisis
+
+[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+
+> 💎 Use an Gemini API to analice information.  
+> 🐘 Include Maestro SDK for its deployment.    
+> 💡 Has a nice web interface to showcase the app.
+
+### Cuaderno de ml
+
+[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+
+> 💎 Use an Gemini API to analice information.  
+> 🐘 Include Maestro SDK for its deployment.    
+> 💡 Has a nice web interface to showcase the app. 
