@@ -151,7 +151,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Cuaderno de ml
 
-[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
 
 > 💎 Use an Gemini API to analice information.  
 > 🐘 Include Maestro SDK for its deployment.    
