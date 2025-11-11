@@ -87,6 +87,7 @@ Tools <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
 <img src="img/langchain-logo.png" height="40" alt="chromadb logo"/>
 <img src="img/hugg-logo.png" height="40" alt="huggingface logo"/>
+<img src="img/gem-logo.png" height="40" alt="huggingface logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
