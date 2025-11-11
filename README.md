@@ -123,4 +123,12 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 > 🗣 A convolutional autoencoder that gets latent representations and evaluates them.  
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
-> 💡 Includes L2 and cosine distance to effectively evaluate the project. 
+> 💡 Includes L2 and cosine distance to effectively evaluate the project.
+
+### Agentic IA – Sleep Coach
+
+[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+
+> 💎 Use an Gemini API to analice information.  
+> 🐘 Include Maestro SDK for its deployment.    
+> 💡 Has a nice web interface to showcase the app. 
