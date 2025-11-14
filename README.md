@@ -133,6 +133,22 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🐘 Include Maestro SDK for its deployment.    
 > 💡 Has a nice web interface to showcase the app. 
 
+### MCP With Lang Chain for Historical Chroniclers
+
+[![ChromaChroniclers](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=ChromaChroniclers&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/ChromaChroniclers)
+
+> 💎 --.  
+> 🐘 --.    
+> 💡 --.
+
+### Gen IA to Chat With Invented Dinosaurs
+
+[![YapperSaurusMuseum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
+
+> 💎 --.  
+> 🐘 --.    
+> 💡 --. 
+
 ### ETL With AWS Glue
 
 [![AWS-web-ETL](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AWS-web-ETL&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AWS-web-ETL)
