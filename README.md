@@ -46,7 +46,7 @@
              
 🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
              
-🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives.
+🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives such as vectorial databases, monitoring or model contex protocol tools.
 
 🗣️ Great **B2** level of **English**, enabling expanded job opportunities and effective communication.
 
