@@ -167,7 +167,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Data analisis
 
-[![DataAnalisis](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisis&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisis)
+[![DataAnalisisCollection](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisisCollection&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
 
 > 💎 --. 
 > 🐘 ...    
@@ -175,7 +175,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML Prediction Oriented
 
-[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearning&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearning)
+[![MachineLearningCollection](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearningCollection&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearningCollection)
 
 > 💎 --.  
 > 🐘 --.    
