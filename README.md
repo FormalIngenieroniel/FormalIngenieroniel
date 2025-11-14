@@ -79,16 +79,17 @@ Languages <br>
 Tools <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img src="img/chroma-logo.png" height="40" alt="chromadb logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" alt="tf logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="40" alt="keras logo"/>                
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="keras logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"/>
-<img src="img/langchain-logo.png" height="40" alt="chromadb logo"/>
+<img src="img/chroma-logo.png" height="40" alt="chromadb logo"/>
+<img src="img/langchain-logo.png" height="40" alt="langchain logo"/>
 <img src="img/hugg-logo.png" height="40" alt="huggingface logo"/>
-<img src="img/gem-logo.png" height="40" alt="huggingface logo"/>
-<img src="img/ollama-logo.png" height="40" alt="huggingface logo"/>
+<img src="img/gem-logo.png" height="40" alt="gemini logo"/>
+<img src="img/ollama-logo.png" height="40" alt="ollama logo"/>
+<img src="img/mlflow-logo.png" height="40" alt="mlflow logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
