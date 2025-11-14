@@ -123,7 +123,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 > 🗣 A convolutional autoencoder that gets latent representations and evaluates them.  
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
-> 💡 Includes L2 and cosine distance to effectively evaluate the project.
+> 💡 Includes L2 and cosine distance to effectively evaluate each language trained.
 
 ### Agentic IA – Sleep Coach
 
@@ -133,26 +133,26 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🐘 Include Maestro SDK for its deployment.    
 > 💡 Has a nice web interface to showcase the app. 
 
-### Arreglar bigdataiii
+### ETL With AWS Glue
 
-[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+[![AWS-web-ETL](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AWS-web-ETL&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AWS-web-ETL)
 
-> 💎 Use an Gemini API to analice information.  
-> 🐘 Include Maestro SDK for its deployment.    
-> 💡 Has a nice web interface to showcase the app.
+> 💎 --.  
+> 🐘 --.    
+> 💡 --.
 
 ### Data analisis
 
-[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+[![DataAnalisis](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisis&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisis)
 
-> 💎 Use an Gemini API to analice information.  
-> 🐘 Include Maestro SDK for its deployment.    
-> 💡 Has a nice web interface to showcase the app.
+> 💎 --. 
+> 🐘 ...    
+> 💡 --.
 
-### Cuaderno de ml
+### ML Prediction Oriented
 
-[![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearning&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearning)
 
-> 💎 Use an Gemini API to analice information.  
-> 🐘 Include Maestro SDK for its deployment.    
-> 💡 Has a nice web interface to showcase the app. 
+> 💎 --.  
+> 🐘 --.    
+> 💡 --. 
