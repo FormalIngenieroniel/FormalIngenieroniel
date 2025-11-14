@@ -44,9 +44,9 @@
 <td align="left" valign="top" width="600" style="width: 600px; border: none; padding-right: 15px;">
       <p>
              
-🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud features.
+🎓 **Computer Scientist** and **Engineer in Artificial Intelligence**, with experience leading data analysis, predictive modeling projects and cloud aplications in AWS and Azure.
              
-🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives such as vectorial databases, monitoring or model contex protocol tools.
+🔧 Proficient in utilizing various **tools**/**API´s** to drive successful AI initiatives such as vectorial databases, monitoring or model context protocol tools.
 
 🗣️ Great **B2** level of **English**, enabling expanded job opportunities and effective communication.
 
