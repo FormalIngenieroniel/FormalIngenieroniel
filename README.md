@@ -126,7 +126,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
 > 💡 Includes L2 and cosine distance to effectively evaluate each language trained.
 
-### Global Agentic Psichoanalisis Tool 
+### Analysis of Social Cognitive Dissonance - Distributed Multi-Agent Architecture in AWS Cloud
 
 [![AnimaFractus](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
 
