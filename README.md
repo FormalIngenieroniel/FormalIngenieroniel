@@ -126,6 +126,14 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
 > 💡 Includes L2 and cosine distance to effectively evaluate each language trained.
 
+### Global Agentic Psichoanalisis Tool 
+
+[![AnimaFractus](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
+
+> 💎 --.  
+> 🐘 --.    
+> 💡 --.
+
 ### Agentic IA – Sleep Coach
 
 [![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
@@ -133,14 +141,6 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 💎 Use an Gemini API to analice information.  
 > 🐘 Include Maestro SDK for its deployment.    
 > 💡 Has a nice web interface to showcase the app. 
-
-### MCP With Lang Chain for Historical Chroniclers
-
-[![ChromaChroniclers](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=ChromaChroniclers&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/ChromaChroniclers)
-
-> 💎 --.  
-> 🐘 --.    
-> 💡 --.
 
 ### Gen IA to Chat With Invented Dinosaurs
 
