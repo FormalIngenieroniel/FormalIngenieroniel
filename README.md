@@ -158,6 +158,14 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🐘 ...    
 > 💡 --.
 
+### ML experiments using Azure Cloud
+
+[![AzureTests](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AzureTests&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/AzureTests)
+
+> 🗣 --.  
+> 👩‍💻 --.    
+> 💡 --.
+
 ### ETL With AWS Glue
 
 [![AWS-web-ETL](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AWS-web-ETL&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AWS-web-ETL)
