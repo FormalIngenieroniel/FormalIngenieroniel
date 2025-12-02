@@ -116,6 +116,8 @@ Others<br>
 
 ## 📌 Featured Projects
 
+(⚠🚧 The API readme-stats is having some trouble showing the template of the repositorys! 🚧⚠)
+
 A collection of some of my favorite, interesting and practical repositories. Click to discover everything while exploring!
 
 ### Temporal Triplet Autoencoder GRU-bi – Continuos Sing language Recognition
