@@ -120,7 +120,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Temporal Triplet Autoencoder GRU-bi – Continuos Sing language Recognition
 
-[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
+[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
 
 > 🗣 A convolutional autoencoder that gets latent representations and evaluates them.  
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
