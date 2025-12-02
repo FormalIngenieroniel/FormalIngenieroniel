@@ -134,15 +134,6 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🐘 --.    
 > 💡 --.
 
-### Analysis of Social Cognitive Dissonance - Distributed Multi-Agent Architecture in AWS Cloud
-
-[![RepresentatioHorarum](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
-
-> 💎 --.  
-> 🐘 --.    
-> 💡 --.
-
-
 ### Agentic IA – Sleep Coach
 
 [![NapTelligence](https://github-readme-stats.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
