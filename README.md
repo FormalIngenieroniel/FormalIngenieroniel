@@ -130,7 +130,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Analysis of Social Cognitive Dissonance - Distributed Multi-Agent Architecture in AWS Cloud
 
-[![AnimaFractus](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
+[![AnimaFractus](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
 
 > 💎 --.  
 > 🐘 --.    
@@ -146,7 +146,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Gen IA to Chat With Invented Dinosaurs
 
-[![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
+[![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=apprentice&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
 
 > 💎 --.  
 > 🐘 --.    
@@ -154,7 +154,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Web Scraping using AWS Lambda
 
-[![InfoNewsHarvester](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=InfoNewsHarvester&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/InfoNewsHarvester)
+[![InfoNewsHarvester](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=InfoNewsHarvester&theme=midnight-purple&cache_bust=1)](https://github.com/FormalIngenieroniel/InfoNewsHarvester)
 
 > 💎 --. 
 > 🐘 ...    
@@ -162,7 +162,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML experiments using Azure Cloud
 
-[![AzureTests](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AzureTests&theme=monokai&cache_bust=1)](https://github.com/FormalIngenieroniel/AzureTests)
+[![AzureTests](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AzureTests&theme=ambient_gradient&cache_bust=1)](https://github.com/FormalIngenieroniel/AzureTests)
 
 > 🗣 --.  
 > 👩‍💻 --.    
@@ -170,7 +170,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ETL With AWS Glue
 
-[![AWS-web-ETL](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AWS-web-ETL&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AWS-web-ETL)
+[![AWS-web-ETL](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AWS-web-ETL&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/AWS-web-ETL)
 
 > 💎 --.  
 > 🐘 --.    
@@ -178,7 +178,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Data analisis
 
-[![DataAnalisisCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisisCollection&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
+[![DataAnalisisCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisisCollection&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
 
 > 💎 --. 
 > 🐘 ...    
@@ -186,7 +186,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML Prediction Oriented
 
-[![MachineLearningCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearningCollection&theme=tokyonight&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearningCollection)
+[![MachineLearningCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearningCollection&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearningCollection)
 
 > 💎 Many experiments.  
 > 🐘 --.    
