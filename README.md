@@ -184,7 +184,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🐘 ...    
 > 💡 --.
 
-[![MachineLearningCollectionII]((https://githubcard.com/FormalIngenieroniel/DataAnalisisCollection.svg?d=bLHSVYXT)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
+[![MachineLearningCollectionII](https://githubcard.com/FormalIngenieroniel/DataAnalisisCollection.svg?d=bLHSVYXT)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
 
 ### ML Prediction Oriented
 
