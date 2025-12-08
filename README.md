@@ -162,7 +162,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML experiments using Azure Cloud
 
-[![AzureTests](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AzureTests&theme=ambient_gradient&cache_bust=1)](https://github.com/FormalIngenieroniel/AzureTests)
+[![AzureTests](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AzureTests&theme=noctis_minimus&cache_bust=1)](https://github.com/FormalIngenieroniel/AzureTests)
 
 > 🗣 --.  
 > 👩‍💻 --.    
