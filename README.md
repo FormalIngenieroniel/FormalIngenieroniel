@@ -116,8 +116,6 @@ Others<br>
 
 ## 📌 Featured Projects
 
-(⚠🚧 The API readme-stats is having some trouble showing the template of the repositorys! 🚧⚠)
-
 A collection of some of my favorite, interesting and practical repositories. Click to discover everything while exploring!
 
 ### Temporal Triplet Autoencoder GRU-bi – Continuos Sing language Recognition
@@ -132,9 +130,9 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 [![AnimaFractus](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
 
-> 💎 --.  
-> 🐘 --.    
-> 💡 --.
+> 🐳 Dockerized distributed cloud architecture.  
+> 🎭 LangChain and Langraph to organize different agents communication.    
+> 🧠 Uses RAG strategy with ChromaDB ingested with 2020 Tweets.
 
 ### Agentic IA – Sleep Coach
 
