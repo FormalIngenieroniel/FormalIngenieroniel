@@ -124,7 +124,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 > 🗣 A convolutional autoencoder that gets latent representations and evaluates them.  
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
-> 💡 Includes L2 and cosine distance to effectively evaluate each language trained.
+> 📐 Includes L2 and cosine distance to effectively evaluate each language trained.
 
 ### Analysis of Social Cognitive Dissonance - Distributed Multi-Agent Architecture in AWS Cloud
 
@@ -146,9 +146,9 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 [![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=apprentice&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
 
-> 💎 --.  
-> 🐘 --.    
-> 💡 --. 
+> ☁ Design in AWS using EC2 instances with custom RNN to generate a new scientific name.  
+> 🦙 Ollama integration to generate the physical description and Dall-e to visualice both via Ngrok.    
+> 🐱‍🐉 Posibility to chat with any dinosaur created using Gemini API. 
 
 ### Web Scraping using AWS Lambda
 
