@@ -147,8 +147,8 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 [![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=apprentice&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
 
 > ☁ Design in AWS using EC2 instances with custom RNN to generate a new scientific name.  
-> 🦙 Ollama integration to generate the physical description and Dall-e to visualice both via Ngrok.    
-> 🐱‍🐉 Posibility to chat with any dinosaur created using Gemini API. 
+> 🦙 Ollama integration to generate the physical description and Dall-e to visualize it, both via Ngrok.    
+> 🐱‍🐉 Immersive web museum to chat with any dinosaur created using the Gemini API. 
 
 ### Web Scraping using AWS Lambda
 
