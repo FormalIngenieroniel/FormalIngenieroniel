@@ -154,7 +154,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 [![InfoNewsHarvester](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=InfoNewsHarvester&theme=midnight-purple&cache_bust=1)](https://github.com/FormalIngenieroniel/InfoNewsHarvester)
 
-> 📶 Orchestrates serverless ETL pipeline using AWS Lambda to automate scraping and processing of news webs. 
+> 📶 Orchestrates serverless ETL pipeline using AWS Lambda to automate scraping and processing of news webs.
 > 🍼 Integrates AWS Glue and Athena to catalog, transform, and store structured data Amazon S3.    
 > 🧾 Generates machine-learning-ready datasets in CSV format for predictive analysis and modeling.
 
