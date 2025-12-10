@@ -189,3 +189,12 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 💎 Many experiments.  
 > 🐘 --.    
 > 💡 --. 
+
+
+### Prubeaa
+
+[![prueba](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=pruebadesc&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/pruebadesc)
+
+> 💎 --.  
+> 🐘 --.    
+> 💡 --.
