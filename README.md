@@ -181,6 +181,10 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.  
 > 📅 A collection of different notebooks that document years of learning Data Analisis and ML.
 > 🏁 Integrates various final projects with deep analysis of data in practical cases.
+>
+> 🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.  
+> 📅 A collection of different notebooks that document years of learning Data Analisis and ML.    
+> 🏁 Integrates various final projects with deep analysis of data in practical cases. 
 
 ### ML Prediction Oriented
 
