@@ -179,7 +179,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 [![Data-Analisis-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Data-Analisis-Collection&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/Data-Analisis-Collection)
 
 > 📅 A collection of different notebooks that document years of learning Data Analisis and ML.
-> 🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.   
+>  🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.   
 > 🏁 Integrates various final projects with deep analysis of data in practical cases.
 
 ### ML Prediction Oriented
