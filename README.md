@@ -120,7 +120,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Temporal Triplet Autoencoder GRU-bi – Continuos Sing language Recognition
 
-[![RepresentatioHorarumii](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
+[![RepresentatioHorarumii](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=RepresentatioHorarum&theme=github_dark&cache_bust=2)](https://github.com/FormalIngenieroniel/RepresentatioHorarum)
 
 > 🗣 A convolutional autoencoder that gets latent representations and evaluates them.  
 > 👩‍💻 Use a temporal wrapper, featuring Gru-bi RRN, 3D convolutions, and sequence preprocessing.    
@@ -128,7 +128,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Analysis of Social Cognitive Dissonance - Distributed Multi-Agent Architecture in AWS Cloud
 
-[![AnimaFractus](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/AnimaFractus)
+[![AnimaFractus](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=AnimaFractus&theme=dark&cache_bust=2)](https://github.com/FormalIngenieroniel/AnimaFractus)
 
 > 🐳 Dockerized distributed cloud architecture.  
 > 🎭 LangChain and Langraph to organize different agents communication.    
@@ -136,7 +136,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Agentic IA – Sleep Coach
 
-[![NapTelligence](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=1)](https://github.com/FormalIngenieroniel/NapTelligence)
+[![NapTelligence](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=NapTelligence&theme=blue_navy&cache_bust=2)](https://github.com/FormalIngenieroniel/NapTelligence)
 
 > 💎 Use an Gemini API to analice information.  
 > 🐘 Include Maestro SDK for its deployment.    
@@ -144,7 +144,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Gen IA to Chat With Invented Dinosaurs
 
-[![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=apprentice&cache_bust=1)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
+[![YapperSaurusMuseum](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=YapperSaurusMuseum&theme=apprentice&cache_bust=2)](https://github.com/FormalIngenieroniel/YapperSaurusMuseum)
 
 > ☁ Design in AWS using EC2 instances with custom RNN to generate a new scientific name.  
 > 🦙 Ollama integration to generate the physical description and Dall-e to visualize it, both via Ngrok.    
@@ -152,7 +152,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Web Scraping using AWS Lambda
 
-[![InfoNewsHarvester](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=InfoNewsHarvester&theme=midnight-purple&cache_bust=1)](https://github.com/FormalIngenieroniel/InfoNewsHarvester)
+[![InfoNewsHarvester](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=InfoNewsHarvester&theme=midnight-purple&cache_bust=2)](https://github.com/FormalIngenieroniel/InfoNewsHarvester)
 
 > 📶 Orchestatres serverless ETL pipeline using AWS Lambda to automate scraping and processing of news webs.  
 > 📲 Integrates AWS Glue and Athena to catalog, transform, and store structured data Amazon S3.    
@@ -160,7 +160,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML experiments using Azure Cloud
 
-[![Azure-AI-Tools](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Azure-AI-Tools&theme=noctis_minimus&cache_bust=1)](https://github.com/FormalIngenieroniel/Azure-AI-Tools)
+[![Azure-AI-Tools](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Azure-AI-Tools&theme=noctis_minimus&cache_bust=2)](https://github.com/FormalIngenieroniel/Azure-AI-Tools)
 
 > ☁ Integrates simple cases of AI in Azure virtual machines.  
 > ✨ Have different experiments, from object detection in images to extracting text from images.    
@@ -168,7 +168,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ETL With AWS Glue
 
-[![Sakila-Movie-Searcher](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Sakila-Movie-Searcher&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/Sakila-Movie-Searcher)
+[![Sakila-Movie-Searcher](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Sakila-Movie-Searcher&theme=holi&cache_bust=2)](https://github.com/FormalIngenieroniel/Sakila-Movie-Searcher)
 
 > 🌐 Ingest data from Sakila in a AWS RDS utilizing ETL process as a introduction to Big Data.  
 > 📎 Uses AWS Glue Workflows to orchestrate the process executing jobs, then crawlers.    
@@ -176,7 +176,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### Data analisis
 
-[![Data-Analisis-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Data-Analisis-Collection&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/Data-Analisis-Collection)
+[![Data-Analisis-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Data-Analisis-Collection&theme=dark&cache_bust=2)](https://github.com/FormalIngenieroniel/Data-Analisis-Collection)
 
 > 🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.  
 > 📅 A collection of different notebooks that document years of learning Data Analisis and ML.    
@@ -184,7 +184,7 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 ### ML Prediction Oriented
 
-[![Machine-Learning-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Machine-Learning-Collection&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/Machine-Learning-Collection)
+[![Machine-Learning-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Machine-Learning-Collection&theme=github_dark&cache_bust=2)](https://github.com/FormalIngenieroniel/Machine-Learning-Collection)
 
 > 🥇 The collection goes from basic prediction models to deep data evaluation and complex clustering tasks.  
 > ⭕ The final projects include experiments with supervised and unsupervised learning.    
