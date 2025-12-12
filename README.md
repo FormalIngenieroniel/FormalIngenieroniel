@@ -162,30 +162,30 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 
 [![Azure-AI-Tools](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Azure-AI-Tools&theme=noctis_minimus&cache_bust=1)](https://github.com/FormalIngenieroniel/Azure-AI-Tools)
 
-> 🗣 --.  
-> 👩‍💻 --.    
-> 💡 --.
+> ☁ Integrates simple cases of AI in Azure virtual machines.  
+> ✨ Have different experiments, from object detection in images to extracting text from images.    
+> ✅ This repository is a copy of a set of official tutorials from Microsoft as a tutorial for the use of AI in cloud.
 
 ### ETL With AWS Glue
 
 [![Sakila-Movie-Searcher](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Sakila-Movie-Searcher&theme=holi&cache_bust=1)](https://github.com/FormalIngenieroniel/Sakila-Movie-Searcher)
 
-> 💎 --.  
-> 🐘 --.    
-> 💡 --.
+> 🌐 Ingest data from Sakila in a AWS RDS utilizing ETL process as a introduction to Big Data.  
+> 📎 Uses AWS Glue Workflows to orchestrate the process executing jobs, then crawlers.    
+> ⌛ Includes CI/CD workflows to accelerate deployment and ensure the robustness of the web application.
 
 ### Data analisis
 
-[![DataAnalisisCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=DataAnalisisCollection&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/DataAnalisisCollection)
+[![Data-Analisis-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Data-Analisis-Collection&theme=dark&cache_bust=1)](https://github.com/FormalIngenieroniel/Data-Analisis-Collection)
 
-> 💎 --. 
-> 🐘 ...    
-> 💡 --.
+> 📅 A collection of different notebooks that document years of learning Data Analisis and ML. 
+> 🔝 Starts with basic concepts to advanced time series, data cleaning, interpretation, and predictive models.   
+> 🏁 Integrates various final projects with deep analysis of data in practical cases.
 
 ### ML Prediction Oriented
 
-[![MachineLearningCollection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=MachineLearningCollection&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/MachineLearningCollection)
+[![Machine-Learning-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Machine-Learning-Collection&theme=github_dark&cache_bust=1)](https://github.com/FormalIngenieroniel/Machine-Learning-Collection)
 
-> 💎 Many experiments.  
-> 🐘 --.    
-> 💡 --. 
+> 🥇 The collection goes from basic prediction models to deep data evaluation and complex clustering tasks.  
+> ⭕ The final projects include experiments with supervised and unsupervised learning.    
+> 📈 Has methods of feature engineering, optimization, and model evaluation with tools such as the ROC curve. 
