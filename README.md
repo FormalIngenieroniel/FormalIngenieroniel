@@ -174,6 +174,14 @@ A collection of some of my favorite, interesting and practical repositories. Cli
 > 📎 Uses AWS Glue Workflows to orchestrate the process executing jobs, then crawlers.    
 > ⌛ Includes CI/CD workflows to accelerate deployment and ensure the robustness of the web application.
 
+### Vector DB vs. Graph DB 
+
+[![What-Is-That-Train](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=What-Is-That-Train-Car&theme=github_dark&cache_bust=2)](https://github.com/FormalIngenieroniel/What-Is-That-Train-Car)
+
+> 🚂 Implements a RAG search over embeddings of text and images to recognize train cars.  
+> ✍ Evaluates the search with RAGAS, Faithfulness, Answer Similarity, and Context Precision.    
+> 💽 Uses a Gemini API as a multimodal tool to generate the final response with the results.
+
 ### Data analisis
 
 [![Data-Analisis-Collection](https://github-readme-stats-danny.vercel.app/api/pin/?username=FormalIngenieroniel&repo=Data-Analisis-Collection&theme=dark&cache_bust=2)](https://github.com/FormalIngenieroniel/Data-Analisis-Collection)
